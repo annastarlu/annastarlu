@@ -1,7 +1,8 @@
 ## Anna Muller
 **`Estudante de Engenharia da Computação`**
 
-Me chamo Anna Luiza Muller, tenho 22 anos e sou de Itu-SP. Atualmente, estou cursando Engenharia da Computação na FACENS. Sou curiosa por tecnologia e gosto de aprender sobre diversos tópicos, atualmente focada em Python, Linguagem C e Linux.
+Me chamo Anna Luiza Muller, tenho 22 anos e sou de Itu-SP. Atualmente, estou cursando Engenharia da Computação na FACENS. 
+Sou curiosa por tecnologia e gosto de aprender sobre diversos tópicos, atualmente focada em Python, Linguagem C e Linux.
 
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
