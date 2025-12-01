@@ -66,7 +66,7 @@ Sou curiosa por tecnologia e gosto de aprender sobre diversos tópicos, atualmen
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://education.oracle.com/file/general/p-80-java.png" 
+    src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" 
 />
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/>
