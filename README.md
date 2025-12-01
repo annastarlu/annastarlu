@@ -60,6 +60,14 @@ Sou curiosa por tecnologia e gosto de aprender sobre diversos tópicos, atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="center" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" 
+/>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 <br/>
 <br/>
