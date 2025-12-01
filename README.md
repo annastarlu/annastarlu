@@ -76,11 +76,5 @@ Sou curiosa por tecnologia e gosto de aprender sobre diversos tópicos, atualmen
 ---
 <br/>
 <br/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=annastarlu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
